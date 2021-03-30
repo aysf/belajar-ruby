@@ -1,11 +1,16 @@
-puts "hello world"
-print "hello world\n"
-p "hello world"
-greeting = "hello amazing world"
-puts greeting
+# Case statement
+# def rate_gpa(gpa)
+#   case gpa
+#   when 3.5..4
+#     "terbaaeeeeek....!"
+#   when 3..3.4
+#     "bagooeees....!"
+#   when 2.5..2.9
+#     "mantaaap"
+#   else
+#     "sip"
+#   end
+# end
+# p rate_gpa(3.49)
 
-def say_helo(word)
-  puts "Hello awesome world, your name is #{word}"
-end
-
-say_helo("ananto")
+puts !!nil
