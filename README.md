@@ -30,3 +30,5 @@ Belajar Ruby mulai dari dasar, tipe data, pengulangan, obyek, membangun website,
 ## Strings
 
 ## Hashes
+
+test auto6
